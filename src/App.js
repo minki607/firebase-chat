@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import ChatPage from "./page/ChatPage/ChatPage";
 import LoginPage from "./page/LoginPage/LoginPage";
 import RegisterPage from "./page/RegisterPage/RegisterPage";
-import "./App.css";
 
 function App() {
   return (
